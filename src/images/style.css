@@ -1,0 +1,50 @@
+body{
+    background: hsl(0, 0%, 100%) !important;
+    font-weight: 700 !important;
+    color: blue !important;
+
+}
+
+.grey{
+    color:  hsl(235, 18%, 26%) !important;
+    font-weight: 400 !important;
+    
+}
+
+
+
+.dark{
+    color:hsl(234, 29%, 20%) !important;
+    font-weight: 700 !important;
+}
+.do:hover{
+    background: red;
+}
+
+.text{
+    font-size: 16px !important;
+    
+}
+
+
+
+.one{
+    border: 1px solid black;
+}
+
+
+   @media (min-width:767px) {
+    
+        .wid{
+    width: 70vw !important;
+    height: 95vh !important;
+}
+.big{
+    font-size: 70px;
+}
+        
+    }
+    
+
+
+
